@@ -1,0 +1,74 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Web design can be great for creative types because it allows you to create something both beautiful and functional, all from your computer. If you are looking for a way to use your artistic side, web design is a great way to do it.",
+        "name": "Web desing",
+        "img": "https://cdn.mos.cms.futurecdn.net/6J8riT32EkrhW9NYfE5oyK.jpg "
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "category_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Digital marketing lets them reach a wider audience, scale their business further, and generate more revenue. Setting up a business online, running ad campaigns, developing content strategies are a few of the tasks a digital marketing expert does to provide such results.",
+        "name": "Digita Marketing",
+        "img": "https://marketbusinessnews.com/wp-content/uploads/2018/08/Digital-Marketing.jpg "
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
+        "category_id": "03",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Web development has a number of pros: High earning potential, opportunity for growth, and flexibility are usually top of mind for most who get into the industry. Some of the challenges for people who pursue web development is the competitive nature of the job market",
+        "name": "Wed Devlopment",
+        "img": "https://res.cloudinary.com/boardinfinity/image/upload/t_blog_img/bi-websites/blog/11/56.png"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
+        "category_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "People Care About High-Quality User Experiences. At the end of the day, one of the most important reasons why you should learn UX design is because people care about high-quality user experiences. And, the term people covers more than just users.",
+        "name": "Ui Ux  Desing",
+        "img": "https://miro.medium.com/max/1050/1*hp-yfKsmzsj711iLbM8eEw.jpeg"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+        "category_id": "05",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Graphic design careers include creative director, art director, art production manager, brand identity developer, illustrator and layout artist.",
+        "name": "Graphic Desing",
+        "img": "https://www.classcentral.com/report/wp-content/uploads/2022/09/Graphic-Design-BCG-Banner.png"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
+        "category_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Explore the best stock motion graphics for your videos. Instantly spice up your content with ready-to-use animations created by professional designers. Find exactly what you’re looking for with search filters, including everything from background loops, to transitions, overlays and more. Subscribe to unlock unlimited motion graphics.",
+        "name": "Motoin Graphic",
+        "img": "https://res.cloudinary.com/upwork-cloud/video/upload/c_scale,w_1000/v1666449375/catalog/1583827351074009088/slysfavd8kf5qamnbpa7.JPEG"
+    }
+]
