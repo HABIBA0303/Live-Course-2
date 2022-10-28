@@ -1,26 +1,26 @@
 [
     {
         "id": "01",
-        "name": "Wed design"
+        "category": "Wed design"
     },
     {
         "id": "02",
-        "name": "Digtal Marketing"
+        "category": "Digtal Marketing"
     },
     {
         "id": "03",
-        "name": "Web Devlopment"
+        "category": "Web Devlopment"
     },
     {
         "id": "04",
-        "name": "Ui design"
+        "category": "Ui design"
     },
     {
         "id": "05",
-        "name": "Graphic design"
+        "category": "Graphic design"
     },
     {
         "id": "06",
-        "name": "Motion Graphis"
+        "category": "Motion Graphis"
     }
 ]
